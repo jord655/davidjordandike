@@ -1,0 +1,53 @@
+.grid-shit{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  column-gap: 20px;
+}
+.sec1{
+  border: 1px solid gray;
+   font-family: gabriola;
+font-size: large;
+text-align:center ;
+box-shadow: 1px 2px 3px gray;
+border-radius: 30px;
+}
+.sec1:hover{
+background-color: blue;
+transition: 0.9s;
+color: white;
+}
+
+.main{
+   padding-top:20px;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  column-gap: 20px;
+  row-gap: 20px;
+  box-shadow: 1px 2px 3px gray;
+}
+
+.sec2{
+ font-family: gabriola;
+font-size: large;
+ border: 1px solid gray;
+ text-align: center;
+ box-shadow: 1px 2px 3px gray;
+ border-radius: 30px;
+}
+.sec2:hover{
+background-color: blue;
+transition: 0.9s;
+color: white;
+}
+
+
+.james2{
+  max-width: 1000px;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.footer{
+  color: blue;
+}

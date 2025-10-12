@@ -1,0 +1,16 @@
+img{
+    width: 50px;
+    /* display: inline; */
+}
+h1{
+    display: inline;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+.yooy{
+     display: flex;
+    flex-direction: row;
+    row-gap: 20px; 
+    text-align: center;
+     
+}

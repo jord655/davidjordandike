@@ -1,0 +1,80 @@
+/* 
+.james{
+  max-width: 800px;
+  margin: 60px auto;
+  padding: 30px;
+  border: 2px solid #e0e0e0;
+  border-radius: 15px;
+  background-color: #fafafa;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+
+h2 {
+
+  color: #0d47a1;
+  font-size: 2rem;
+  margin-bottom: 20px;
+  letter-spacing: 1px;
+}
+
+p {
+  color: #333;
+  line-height: 1.7;
+  font-size: 1.05rem;
+  margin-bottom: 18px;
+  text-align: justify;
+}
+
+
+strong {
+  color: #1565c0;
+}
+
+
+div:hover {
+  box-shadow: 0 6px 15px rgba(0, 0, 0, 0.15);
+  transition: all 0.3s ease;
+} */
+
+.james{
+  background-color: rgb(243, 240, 255);
+  padding: 40px;
+  border-radius: 20px;
+}
+.pass{
+  font-size: large;
+
+  font-family: 
+Garamond;
+}
+.str{
+  color: blue;
+}
+
+
+.im{
+  text-align: center;
+margin-right: auto;
+margin-left: auto;
+gap: 30px;
+display: flex;
+flex-direction: row;
+text-align: center;
+align-items: center;
+justify-content: center;
+
+}
+.imm1{
+   width: 200px;
+   gap: 30px;
+}
+.imm2{
+     width: 200px;
+   gap: 30px;
+   height: 115px;
+}
+.imm3{
+     width: 200px;
+   gap: 30px;
+}
