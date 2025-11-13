@@ -4,11 +4,7 @@ import "./styles/contact.css"
 
 function Contact(){
 
-
-
     return(
-    
-
 <form >
     <h2 class="header">contact us</h2>
     {/* <legend>contact us</legend> */}
@@ -19,7 +15,7 @@ function Contact(){
   <textarea placeholder="Enter message here">
 
   </textarea> <br/> <br/>
-    <button type="submit">send message</button>
+    <button  type="submit">send message</button>
 
 </fieldset>
    

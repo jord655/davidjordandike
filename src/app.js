@@ -3,6 +3,7 @@ import Banner from "./component/banner"
 import About from "./component/about"
 import Services from "./component/services";
 import Contact from "./component/contact";
+import Footer from "./component/footer";
 
 function App(){
 
@@ -15,7 +16,10 @@ function App(){
 <br /> 
 <Services/> 
 
-<Contact/>
+<Contact/> <br/>
+
+<Footer/>
+
     </div>
    
 
