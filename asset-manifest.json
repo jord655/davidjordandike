@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/bu-cos2209assignment3ReactWebsite/static/css/main.80eeb5a3.css",
-    "main.js": "/bu-cos2209assignment3ReactWebsite/static/js/main.82527cd6.js",
+    "main.js": "/bu-cos2209assignment3ReactWebsite/static/js/main.64941c86.js",
     "static/media/download (10).jpeg": "/bu-cos2209assignment3ReactWebsite/static/media/download (10).b95dac8b95065fa9ec2e.jpeg",
     "index.html": "/bu-cos2209assignment3ReactWebsite/index.html",
     "main.80eeb5a3.css.map": "/bu-cos2209assignment3ReactWebsite/static/css/main.80eeb5a3.css.map",
-    "main.82527cd6.js.map": "/bu-cos2209assignment3ReactWebsite/static/js/main.82527cd6.js.map"
+    "main.64941c86.js.map": "/bu-cos2209assignment3ReactWebsite/static/js/main.64941c86.js.map"
   },
   "entrypoints": [
     "static/css/main.80eeb5a3.css",
-    "static/js/main.82527cd6.js"
+    "static/js/main.64941c86.js"
   ]
 }
