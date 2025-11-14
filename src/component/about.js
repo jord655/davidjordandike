@@ -43,10 +43,10 @@ function About(){
       </p>
 <div  class="im">
 
-      <img  class="imm1" src={image} />
+      <img  class="imm1" src={image} alt="image" />
 
-      <img class="imm2" src={image2} />
-      <img class="imm3 " src={image3}/>
+      <img class="imm2" src={image2}  alt="image"/>
+      <img class="imm3 " src={image3} alt="images"/>
 </div>
 </div>
      
