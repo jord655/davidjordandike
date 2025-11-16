@@ -12,7 +12,7 @@ function Banner(){
 <h1>
     HybridTech 
 </h1>
-<img src={image} alt="company-logo" />
+<img src={image} alt="company logo" />
 
 </div>
 
