@@ -15,7 +15,7 @@ function Contact(){
   <textarea placeholder="Enter message here">
 
   </textarea> <br/> <br/>
-    <button  type="submit">send message</button>
+    <button  onclick type="submit">send message</button>
 
 </fieldset>
    
